@@ -14,7 +14,7 @@
     "nodemon": "^2.0.2"
   },
   "scripts": {
-    "start": "nodemon src/index.js",
-    "build": "node src/index.js"
+    "start": "node src/index.js",
+    "build": "nodemon src/index.js"
   }
 }
